@@ -1,42 +1,23 @@
-<p align="center" style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center; justify-content: center;">
-  <!-- Python -->
-  <iconify-icon icon="logos:python" width="38" height="38" title="Python"></iconify-icon>
-  <!-- LangChain -->
-  <iconify-icon icon="simple-icons:langchain" width="38" height="38" title="LangChain"></iconify-icon>
-  <!-- LlamaIndex -->
-  <iconify-icon icon="simple-icons:llamaindex" width="38" height="38" title="LlamaIndex"></iconify-icon>
-  <!-- FastAPI -->
-  <iconify-icon icon="simple-icons:fastapi" width="38" height="38" title="FastAPI"></iconify-icon>
-  <!-- Flask -->
-  <iconify-icon icon="simple-icons:flask" width="38" height="38" title="Flask"></iconify-icon>
-  <!-- Hugging Face -->
-  <iconify-icon icon="simple-icons:huggingface" width="38" height="38" title="Hugging Face"></iconify-icon>
-  <!-- MLflow -->
-  <iconify-icon icon="simple-icons:mlflow" width="38" height="38" title="MLflow"></iconify-icon>
-  <!-- DVC -->
-  <iconify-icon icon="simple-icons:dvc" width="38" height="38" title="DVC"></iconify-icon>
-  <!-- Kubeflow -->
-  <iconify-icon icon="simple-icons:kubeflow" width="38" height="38" title="Kubeflow"></iconify-icon>
-  <!-- OpenCV -->
-  <iconify-icon icon="simple-icons:opencv" width="38" height="38" title="OpenCV"></iconify-icon>
-  <!-- Docker -->
-  <iconify-icon icon="logos:docker" width="38" height="38" title="Docker"></iconify-icon>
-  <!-- Microsoft Azure -->
-  <iconify-icon icon="logos:microsoftazure" width="38" height="38" title="Azure"></iconify-icon>
-  <!-- Google Cloud -->
-  <iconify-icon icon="simple-icons:googlecloud" width="38" height="38" title="Google Cloud"></iconify-icon>
-  <!-- AWS -->
-  <iconify-icon icon="logos:aws" width="38" height="38" title="AWS"></iconify-icon>
-  <!-- n8n -->
-  <iconify-icon icon="simple-icons:n8n" width="38" height="38" title="n8n"></iconify-icon>
-  <!-- Slack -->
-  <iconify-icon icon="logos:slack-icon" width="38" height="38" title="Slack"></iconify-icon>
-  <!-- Airtable -->
-  <iconify-icon icon="simple-icons:airtable" width="38" height="38" title="Airtable"></iconify-icon>
-  <!-- Softr -->
-  <iconify-icon icon="simple-icons:softr" width="38" height="38" title="Softr"></iconify-icon>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-yellow?logo=langchain&logoColor=white&style=for-the-badge" height="24" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-blueviolet?style=for-the-badge&logo=llamaindex&logoColor=white" height="24" alt="LlamaIndex"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="38" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" height="38" alt="Hugging Face"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg" height="38" alt="MLflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dvc.svg" height="38" alt="DVC"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kubeflow.svg" height="38" alt="Kubeflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="38" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="38" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="38" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" height="38" alt="n8n"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/slack.svg" height="38" alt="Slack"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/airtable.svg" height="38" alt="Airtable"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/softr.svg" height="38" alt="Softr"/>
 </p>
-
 
 <h1 align="center">
   Hi there! 👋 I'm <strong>Venu Gopal Gadde</strong>
