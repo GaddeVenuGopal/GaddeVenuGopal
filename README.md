@@ -1,10 +1,17 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GaddeVenuGopal&color=blue" alt="Profile views" /> <img src="https://github-readme-stats.vercel.app/api?username=GaddeVenuGopal&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaddeVenuGopal&layout=compact&theme=radical" alt="Top Languages" />
-
+<!-- Banner SVG (Example) -->
+<p align="center">
+  <img src="https://svgshare.com/i/12AB.svg" alt="AI Banner" width="400"/>
 </p>
 
-# Hi there! 👋 I'm **Venu Gopal Gadde**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GaddeVenuGopal&color=blue" alt="Profile views" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=GaddeVenuGopal&show_icons=true&theme=radical" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaddeVenuGopal&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-> 🚀 **AI Engineer | Generative AI Enthusiast**
+<h1 align="center">Hi there! 👋 I'm Venu Gopal Gadde</h1>
+
+<p align="center"><b>🚀 AI Engineer | Generative AI Enthusiast</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/venugopalgadde/" target="_blank">
@@ -21,109 +28,97 @@
 ---
 
 ## 🔍 About Me
-
-➡️ AI Engineer at **CognitBotz Solutions** (Hyderabad)
-
-➡️ 2+ years of experience in **Machine Learning**, **Deep Learning**, and **NLP**
-
-➡️ Passionate about **Generative AI**, **LLMs**, and building scalable AI-powered applications
-
-➡️ Strong background in **Data Analytics** (Post Grad Diploma, Imarticus Learning)
-
-➡️ Collaborative team player with focus on **ethical AI** and **data privacy**
+- 📍 Hyderabad, India
+- 👨‍💻 AI Engineer at **CognitBotz Solutions**
+- 📊 2+ years' experience in **Machine Learning, Deep Learning, NLP**
+- 🦾 Focused on **Generative AI**, **LLMs** & scalable, ethical AI-powered apps
+- 🎓 Data Analytics Post Grad (Imarticus Learning)
+- 🤝 Collaborative team player & privacy-first designer
 
 ---
 
 ## 💼 Professional Experience
 
-### CognitBotz Solutions – AI Engineer (Sep 2024 – Present)
+### <img src="https://svgshare.com/i/12wW.svg" width="24"/> CognitBotz Solutions – AI Engineer <sub>(Sep 2024 – Present)</sub>
+- 🔧 Development & Fine-Tuning of LLMs: LangChain, LlamaIndex, Few/Zero-Shot Learning
+- 📦 Integration & Deployment: RESTful APIs, prod-ready chatbots, QA systems
+- 🛠️ Custom App Development: Modular doc QA tools, conversational AI
+- 📊 Model Evaluation & Bias Mitigation: Metrics, safeguards for reliability
+- 🤝 Cross-Functional Collaboration: Business-aligned workflows
+- 🔒 Ethical AI & Data Privacy
 
-* **🔧 Development & Fine-Tuning of LLMs:** LangChain, LlamaIndex, Few-Shot & Zero-Shot Learning ➡️ optimize performance
-* **📦 Integration & Deployment:** RESTful APIs, production-ready chatbots & QA systems
-* **🛠️ Custom App Development:** Document QA tools, conversational AI with modular architecture
-* **📊 Model Evaluation & Bias Mitigation:** Metrics & safeguards for reliability
-* **🤝 Cross-Functional Collaboration:** Align solutions with business goals
-* **🔒 Ethical AI & Data Privacy:** Responsible AI practices, privacy-first design
-
-### Teksystems Global Services – Associate Engineer (Nov 2021 – May 2023)
-
-* **🛠️ Model Development & Training:** Assisted in ML pipeline from data preprocessing to deployment
-* **📑 Data Preprocessing:** Cleaning, transformation, and feature engineering
-* **✅ Model Evaluation:** Validation & metrics reporting
-* **🔗 Implementation Support:** Seamless integration in production environments
-* **📚 Research & Documentation:** Maintain experiments & reproducible workflows
+### <img src="https://svgshare.com/i/12v5.svg" width="24"/> Teksystems Global Services – Associate Engineer <sub>(Nov 2021 – May 2023)</sub>
+- 🛠️ ML pipeline from data preprocessing to deployment
+- 📑 Data cleaning, transformation, feature engineering
+- ✅ Model validation & metrics reporting
+- 🔄 Production integration & workflow documentation
 
 ---
 
 ## 🚀 Projects
 
-### 🛍️ **Product Image Classification** (Client: Lululemon)
+### 🛍️ Product Image Classification ([Lululemon])
+- ⚡ 90%+ accuracy | ⬇️ 70% less manual effort
 
-* ⚡ Achieved **90%** accuracy in auto-tagging product images
-* ⬇️ Reduced manual effort by **70%** & improved search relevance
+### 📄 Document QA Application (LangChain + Streamlit)
+- Interactive, multi-format Q&A on docs
 
-### 📄 **Document QA Application**
+### 🥗 GenAI for Nutrition
+- Vision/language models for food nutrients
 
-* Built with **LangChain** & **Streamlit** for interactive Q\&A over documents
+### 📸 Task Capturing App ([Naipunya.AI])
+- Screenshot → annotation → dynamic flowchart
 
-### 🥗 **GenAI for Nutrition**
+### 📊 Automated PDF Data Extraction
+- Visualizes grid frequency & demand
 
-* Vision & language models to detect and analyze nutrient values in foods
-
-### 📸 **Task Capturing App** (Client: Naipunya.AI)
-
-* Python app with automated screenshot annotation & dynamic flowchart (.drawio → PNG)
-
-### 📊 **Automated PDF Data Extraction**
-
-* Python + BeautifulSoup & Camelot for grid frequency & demand visualization
-
-### 🤖 **End-to-End AI Chatbot**
-
-* Langraph, FastAPI & Streamlit for seamless conversational experience
+### 🤖 End-to-End AI Chatbot
+- Built on Langraph, FastAPI, Streamlit
 
 ---
 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FBCA04?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-FF2D20?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-6E5494?style=for-the-badge&logo=git%20submodule&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="38" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="38" alt="PyTorch"/>
+  <img src="https://simpleicons.org/icons/openai.svg" width="38" alt="NLP"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-6E5494?style=flat&logo=git%20submodule&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" alt="Docker"/>
+  <img src="https://img.shields.io/badge/MLOps-007ACC?style=flat&logo=azuredevops&logoColor=white" alt="MLOps"/>
 </p>
 
 ---
 
 ## 🎓 Education & Certifications
 
-* **Generative AI & LLMs Specialization** | MunchingAI, Delhi (Jan 2024 – Present)
-* **PG Diploma in Data Analytics** | Imarticus Learning, Hyderabad (2021) – 85.5%
-* **B.E. Electronics & Communication** | St. Martin’s Engineering College, Hyderabad (2020) – 7.0 CGPA
-* **Google Cloud Certified Associate Cloud Engineer** (08/2022 – 08/2025)
+- **Generative AI & LLMs Specialization** | MunchingAI, Delhi *(Jan 2024 – Present)*
+- **PG Diploma in Data Analytics** | Imarticus Learning, Hyderabad *(2021) – 85.5%*
+- **B.E. Electronics & Communication** | St. Martin’s Engineering College, Hyderabad *(2020) – 7.0 CGPA*
+- 🏅 **Google Cloud Certified Associate Cloud Engineer** *(2022–2025)*
 
 ---
 
 ## 🎯 Interests
 
-> 🍳 Cooking ➡️ 🏋️ Gym ➡️ ✈️ Travelling
+> 🍳 Cooking &emsp; ➡️ &emsp; 🏋️ Gym &emsp; ➡️ &emsp; ✈️ Travelling
 
 ---
 
 ## 📫 Connect with Me
 
-Feel free to reach out:
-
-* 📧: [gvenu2024@gmail.com](mailto:gvenu2024@gmail.com)
-* 🔗: [LinkedIn](https://www.linkedin.com/in/venugopalgadde/)
-* 🐱‍💻: [GitHub](https://github.com/GaddeVenuGopal)
+| Platform | Contact                                  |
+|----------|------------------------------------------|
+| 📧 Email | [gvenu2024@gmail.com](mailto:gvenu2024@gmail.com) |
+| 🔗 Linkedin | [linkedin.com/in/venugopalgadde](https://www.linkedin.com/in/venugopalgadde/) |
+| 🐱 GitHub | [GaddeVenuGopal](https://github.com/GaddeVenuGopal) |
 
 ---
 
 <p align="center">
-  Made with ❤️ and 🚀
+  <img src="https://svgshare.com/i/12Dq.svg" alt="Decorative SVG" width="180"/>
+  <br/>
+  <b>Made by Venu 🚀</b>
 </p>
