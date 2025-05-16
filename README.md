@@ -1,23 +1,20 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
-  <img src="https://img.shields.io/badge/LangChain-yellow?logo=langchain&logoColor=white&style=for-the-badge" height="24" alt="LangChain"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/light/langchain.png" height="38" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LlamaIndex-blueviolet?style=for-the-badge&logo=llamaindex&logoColor=white" height="24" alt="LlamaIndex"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="38" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" height="38" alt="Hugging Face"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mlflow.svg" height="38" alt="MLflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dvc.svg" height="38" alt="DVC"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kubeflow.svg" height="38" alt="Kubeflow"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/light/huggingface-color.png" height="38" alt="Hugging Face"/>
+  <img src="https://svgmix.com/uploads/azure-patterns/c5bbb9-mlflow.svg" height="38" alt="MLflow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="38" alt="OpenCV"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="38" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="38" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" height="38" alt="n8n"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/slack.svg" height="38" alt="Slack"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/airtable.svg" height="38" alt="Airtable"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/softr.svg" height="38" alt="Softr"/>
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" height="38" alt="AWS"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/light/n8n-color.png" height="38" alt="n8n"/>
+  <img src="https://softr-assets-eu-shared.s3.eu-central-1.amazonaws.com/studio/blocks/assets/softr_logo_icon_only.svg" height="38" alt="Softr Studio"/>
 </p>
+
 
 <h1 align="center">
   Hi there! 👋 I'm <strong>Venu Gopal Gadde</strong>
